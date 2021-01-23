@@ -160,14 +160,20 @@ Create and Generate Bingmap API
 1. Download and Install PowerDesktop Bi
 2. Create a custom table in PowerDesktop Bi 
 3. Create a new query on PowerDesktop Bi with a websource 
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
+4. Enter your Bing API 
+```sh
+'ENTER YOUR API';
 ```
 4. Paste the URL in websource and press ok and Keep clicking on the Table link and drilling through the record set until you reach where you can see the address and the attributes. Click Table under Point. 
 5. Now we need to use this query to create a dynamic function that we can use to look up the point information for each address. Click the Advanced Editor button in the Home ribbon. 
 6. When you click Done you should see your function in the Query Editor window.
 7. Press right click on the Query Editor Window add the queries  -  Location , Google Map Api key (GMAPIKey) , Distance , Unit Query as show in the codes.
+```sh
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/GMAPIKey-Parameter-Query.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/GMAPIKey-Parameter-Query.png" alt="Logo" width="80" height="80">
+  </a>
+  ```
+
 8. Invoke custom query Location to generate the Latitude and longitude of the cities in location coloumn .
 9. Save the table in Excel Format with latitude and longitude generated as we require them in Logistics Labs
 
