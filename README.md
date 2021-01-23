@@ -192,6 +192,18 @@ Create and Generate Bingmap API
 
 10. Download and Install Logistics labs at [Logisticslabs](http://logisticslab.org)
 11. Enter the coordinates manually as shown in the figure below or download the TSP file and open in the logistics labs [Coordinates of cities ](https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem)
+
+<p align="center">
+  
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Logistics-labs/Logistics-labs-openproblem.png">
+    <img src="TSP-IMG/Logistics-labs/Logistics-labs-openproblem.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Logistics-labs/Logistics-labs-nodesdefined.png">
+    <img src="TSP-IMG/Logistics-labs/Logistics-labs-nodesdefined.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  </p>
 12. Once the file is open click on optimisation tab calculate distance matrix and choose 1.15 Detour factor in Great Distance circle and click on Start.
 13. Click on Optimisation tab again and choose * Start optimisation * , Click on Problem TSP according to Start and Ending point and click on Start .
 14. Go To Existing Excel Table and add Origin and Destination as Starting and Ending points from Logistics labs .  
