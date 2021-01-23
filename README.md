@@ -204,6 +204,7 @@ Create and Generate Bingmap API
   </a>
   
   </p>
+  
 12. Once the file is open click on optimisation tab calculate distance matrix and choose 1.15 Detour factor in Great Distance circle and click on Start.
 13. Click on Optimisation tab again and choose * Start optimisation * , Click on Problem TSP according to Start and Ending point and click on Start .
 14. Go To Existing Excel Table and add Origin and Destination as Starting and Ending points from Logistics labs .  
