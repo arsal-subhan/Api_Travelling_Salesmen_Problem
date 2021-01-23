@@ -225,6 +225,24 @@ Create and Generate Bingmap API
   </p>
 
 13. Click on Optimisation tab again and choose * Start optimisation * , Click on Problem TSP according to Start and Ending point and click on Start .
+
+<p align="center">
+  
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Logistics-labs/Logisticslabs-North%26South-Optimisation-Ui.png">
+    <img src="TSP-IMG/Logistics-labs/Logisticslabs-North&South-Optimisation-Ui.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Logistics-labs/Logisticslabs-North%26South-Optimal-Solved.png">
+    <img src="TSP-IMG/Logistics-labs/Logisticslabs-North&South-Optimal-Solved.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Logistics-labs/Logistislabs-North%26South-Solved-Map.png">
+    <img src="TSP-IMG/Logistics-labs/Logistislabs-North&South-Solved-Map.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  
+  </p>
+
 14. Go To Existing Excel Table and add Origin and Destination as Starting and Ending points from Logistics labs .  
 15. Go to Microsft Power BI open the existing file or Copy paste the Origin and Destional coloumn from Excel table into the existing file . 
 16. Once the queries are added next step is to to invoke all the custom queries in to the existing queries . 
