@@ -174,10 +174,6 @@ Create and Generate Bingmap API
     <img src="TSP-IMG/Microsoft-PowerBI/GMAPIKey-Parameter-Query.png" alt="Logo" width="1000" height="700">
   </a>
   
-  <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Mode-Parameter-Query.png">
-    <img src="TSP-IMG/Microsoft-PowerBI/Mode-Parameter-Query.png" alt="Logo" width="1000" height="700">
-  </a>
-  
    <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Mode-Parameter-Query.png">
     <img src="TSP-IMG/Microsoft-PowerBI/Mode-Parameter-Query.png" alt="Logo" width="1000" height="700">
   </a>
@@ -185,6 +181,7 @@ Create and Generate Bingmap API
   <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Units-Parameter-query.png">
     <img src="TSP-IMG/Microsoft-PowerBI/Units-Parameter-query.png" alt="Logo" width="1000" height="700">
   </a>
+  
   </p>
 
 
