@@ -168,11 +168,11 @@ Create and Generate Bingmap API
 5. Now we need to use this query to create a dynamic function that we can use to look up the point information for each address. Click the Advanced Editor button in the Home ribbon. 
 6. When you click Done you should see your function in the Query Editor window.
 7. Press right click on the Query Editor Window add the queries  -  Location , Google Map Api key (GMAPIKey) , Distance , Unit Query as show in the codes.
-```sh
+
 <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/GMAPIKey-Parameter-Query.png">
     <img src="TSP-IMG/Microsoft-PowerBI/GMAPIKey-Parameter-Query.png" alt="Logo" width="80" height="80">
   </a>
-  ```
+
 
 8. Invoke custom query Location to generate the Latitude and longitude of the cities in location coloumn .
 9. Save the table in Excel Format with latitude and longitude generated as we require them in Logistics Labs
