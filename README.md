@@ -247,8 +247,31 @@ Create and Generate Bingmap API
 15. Go to Microsft Power BI open the existing file or Copy paste the Origin and Destional coloumn from Excel table into the existing file . 
 16. Once the queries are added next step is to to invoke all the custom queries in to the existing queries . 
 17. The  Google Map Api key (GMAPI) , Distance , Unit Query must be invoked in to the coloumn Origin and Destination to generate Distance required to travel between origin and Destination and time taken between them .
-18. The new table will have coloumns Latitude , Longitutude , Distance between origin and Destination based on the mode choosen and unit in Kilometer or miles . 
+
+<p align="center">
+  
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/France-North%26South-Query.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/France-North&South-Query.png" alt="Logo" width="1000" height="700">
+  </a>
+  </p>
+
+
+18. The new table will have coloumns Latitude , Longitutude , Distance between origin and Destination based on the mode choosen and unit in Kilometer or miles .
+<p align="center">
+  
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/France-North%26South-Table.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/France-North&South-Table.png" alt="Logo" width="1000" height="700">
+  </a>
+  </p>
+
 19.This is an extra step but to display the cities in flow map , Go to visualization and select Flow map and choose the filter Origin and Destination in the respective filter to show location from north to south as in [Coordinates of cities ](https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem)                                                        
+
+<p align="center">
+  
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/France-North%26South-FlowMap.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/France-North&South-FlowMap.png" alt="Logo" width="1000" height="700">
+  </a>
+  </p>
 
 
 <!-- USAGE EXAMPLES -->
