@@ -168,10 +168,19 @@ Create and Generate Bingmap API
     <br />
     <br />
     <br />
+    <br />
+    <br />
+    <br />
    <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Power-BI-CustomData.png">
     <img src="TSP-IMG/Microsoft-PowerBI/Power-BI-CustomData.png" alt="Logo" width="1000" height="700">
   </a>
-  
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
   </p>
 3. Create a new query on PowerDesktop Bi with a websource 
 4. Enter your Bing API 
