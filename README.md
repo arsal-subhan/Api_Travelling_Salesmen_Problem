@@ -159,7 +159,13 @@ Create and Generate Bingmap API
 ### create custom function in PowerBi and integrate it to the custom table and map.
 1. Download and Install PowerDesktop Bi
 2. Create a custom table in PowerDesktop Bi 
-
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
 <p align="center">
 <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Power-Bi-UI.png">
     <img src="TSP-IMG/Microsoft-PowerBI/Power-Bi-UI.png" alt="Logo" width="1000" height="700">
@@ -188,6 +194,18 @@ Create and Generate Bingmap API
 'ENTER YOUR API';
 ```
 4. Paste the URL in websource and press ok and Keep clicking on the Table link and drilling through the record set until you reach where you can see the address and the attributes. Click Table under Point. 
+
+<p align="center">
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Webquery-bingapi.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/Webquery-bingapi.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+   <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Webquery-option.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/Webquery-option.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  </p>
+
 5. Now we need to use this query to create a dynamic function that we can use to look up the point information for each address. Click the Advanced Editor button in the Home ribbon. 
 6. When you click Done you should see your function in the Query Editor window.
 7. Press right click on the Query Editor Window add the queries  -  Location , Google Map Api key (GMAPIKey) , Distance , Unit Query as show in the codes.
