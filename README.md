@@ -164,7 +164,10 @@ Create and Generate Bingmap API
 <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Power-Bi-UI.png">
     <img src="TSP-IMG/Microsoft-PowerBI/Power-Bi-UI.png" alt="Logo" width="1000" height="700">
   </a>
-  
+    <br />
+    <br />
+    <br />
+    <br />
    <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Power-BI-CustomData.png">
     <img src="TSP-IMG/Microsoft-PowerBI/Power-BI-CustomData.png" alt="Logo" width="1000" height="700">
   </a>
