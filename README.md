@@ -228,8 +228,25 @@ Create and Generate Bingmap API
   </p>
 
 
-8. Invoke custom query Location to generate the Latitude and longitude of the cities in location coloumn .
-9. Save the table in Excel Format with latitude and longitude generated as we require them in Logistics Labs
+8. Invoke custom query Location to generate the Latitude and longitude of the cities in location coloumn.
+
+<p align="center">
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Geo-code-function-query.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/Geo-code-function-query.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  </p>
+
+9. Save the table in Excel Format with latitude and longitude generated as we require them in Logistics Labs.
+
+
+<p align="center">
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Copy-table.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/Copy-table.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  </p>
+
 
 ### Use the coordinates to find the optimal distance and optimal route in Logistics labs 
 
@@ -287,8 +304,36 @@ Create and Generate Bingmap API
   </p>
 
 14. Go To Existing Excel Table and add Origin and Destination as Starting and Ending points from Logistics labs .  
+
+
+<p align="center">
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Origindes-excel.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/Origindes-excel.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  </p>
+
 15. Go to Microsft Power BI open the existing file or Copy paste the Origin and Destional coloumn from Excel table into the existing file . 
+<p align="center">
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Copied-Data-ExceltoBI.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/Copied-Data-ExceltoBI.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  </p>
+
 16. Once the queries are added next step is to to invoke all the custom queries in to the existing queries . 
+
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/InvokeCustomFunction-Location.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/InvokeCustomFunction-Location.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/InvokeCustomfunction-TimeandDistance.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/InvokeCustomfunction-TimeandDistance.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  
+  </p>
+
 17. The  Google Map Api key (GMAPI) , Distance , Unit Query must be invoked in to the coloumn Origin and Destination to generate Distance required to travel between origin and Destination and time taken between them .
 
 <p align="center">
