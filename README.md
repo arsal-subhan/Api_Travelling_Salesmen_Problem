@@ -196,13 +196,15 @@ Create and Generate Bingmap API
 4. Paste the URL in websource and press ok and Keep clicking on the Table link and drilling through the record set until you reach where you can see the address and the attributes. Click Table under Point. 
 
 <p align="center">
-<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Webquery-bingapi.png">
-    <img src="TSP-IMG/Microsoft-PowerBI/Webquery-bingapi.png" alt="Logo" width="1000" height="700">
-  </a>
   
    <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Webquery-option.png">
     <img src="TSP-IMG/Microsoft-PowerBI/Webquery-option.png" alt="Logo" width="1000" height="700">
   </a>
+  
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Webquery-bingapi.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/Webquery-bingapi.png" alt="Logo" width="1000" height="700">
+  </a>
+  
   
   </p>
 
