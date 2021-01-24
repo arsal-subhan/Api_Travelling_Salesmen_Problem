@@ -213,6 +213,11 @@ Create and Generate Bingmap API
 7. Press right click on the Query Editor Window add the queries  -  Location , Google Map Api key (GMAPIKey) , Distance , Unit Query as show in the codes.
 
 <p align="center">
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Geo-code-function-query.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/Geo-code-function-query.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  
 <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/GMAPIKey-Parameter-Query.png">
     <img src="TSP-IMG/Microsoft-PowerBI/GMAPIKey-Parameter-Query.png" alt="Logo" width="1000" height="700">
   </a>
@@ -231,12 +236,13 @@ Create and Generate Bingmap API
 8. Invoke custom query Location to generate the Latitude and longitude of the cities in location coloumn.
 
 <p align="center">
-<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Geo-code-function-query.png">
-    <img src="TSP-IMG/Microsoft-PowerBI/Geo-code-function-query.png" alt="Logo" width="1000" height="700">
+  
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/InvokeCustomFunction-Location.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/InvokeCustomFunction-Location.png" alt="Logo" width="1000" height="700">
   </a>
   
   </p>
-
+  
 9. Save the table in Excel Format with latitude and longitude generated as we require them in Logistics Labs.
 
 
@@ -323,10 +329,7 @@ Create and Generate Bingmap API
 
 16. Once the queries are added next step is to to invoke all the custom queries in to the existing queries . 
 
-<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/InvokeCustomFunction-Location.png">
-    <img src="TSP-IMG/Microsoft-PowerBI/InvokeCustomFunction-Location.png" alt="Logo" width="1000" height="700">
-  </a>
-  
+  <p align="center">
   <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/InvokeCustomfunction-TimeandDistance.png">
     <img src="TSP-IMG/Microsoft-PowerBI/InvokeCustomfunction-TimeandDistance.png" alt="Logo" width="1000" height="700">
   </a>
