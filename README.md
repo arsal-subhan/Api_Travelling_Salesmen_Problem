@@ -159,6 +159,17 @@ Create and Generate Bingmap API
 ### create custom function in PowerBi and integrate it to the custom table and map.
 1. Download and Install PowerDesktop Bi
 2. Create a custom table in PowerDesktop Bi 
+
+<p align="center">
+<a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Power-Bi-UI.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/Power-Bi-UI.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+   <a href="https://github.com/arsal-subhan/Api_Travelling_Salesmen_Problem/raw/main/TSP-IMG/Microsoft-PowerBI/Power-BI-CustomData.png">
+    <img src="TSP-IMG/Microsoft-PowerBI/Power-BI-CustomData.png" alt="Logo" width="1000" height="700">
+  </a>
+  
+  </p>
 3. Create a new query on PowerDesktop Bi with a websource 
 4. Enter your Bing API 
 ```sh
